@@ -1,3 +1,4 @@
+# Fork于[hexo-theme-particlex](https://github.com/theme-particlex/hexo-theme-particlex)。仅作备份，无任何修改。认准[hexo-theme-particlex](https://github.com/theme-particlex/hexo-theme-particlex)
 # Hexo-Theme-ParticleX
 
 [ParticleX](https://github.com/theme-particlex/hexo-theme-particlex) 主题，诞生原因是因为原来的 [Particle](https://github.com/korilin/hexo-theme-particle) 主题不维护了，但是我觉得还是很好的。
